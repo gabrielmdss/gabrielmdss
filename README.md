@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, sou Gabriel! 👋
 
-<!--
-**gabrielmdss/gabrielmdss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌴 Baiano nascido e criado em Salvador, posso garantir que por aqui ninguém fala "meu rei". 🤙
 
-Here are some ideas to get you started:
+💻 Em 2021 descobri meu amor pela programação, e passei a estudar JavaScript. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Em Julho de 2023 ingressei no curso de Desenvolvedor Back-End da Cubos Academy, iniciando assim minha jornada pelo mundo da programação. 📚
+
+ Estou aprendendo:
+
+- JavaScript
+- Node.js
+- SQL
+- Metodologias Ágeis 🌀
+
