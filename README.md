@@ -1,11 +1,8 @@
-# Olá, sou Gabriel! 👋
+# 👋 Olá, sou Gabriel! 
 
-🌴 Baiano nascido e criado em Salvador, posso garantir que por aqui ninguém fala "meu rei". 🤙
+💻 Desenvolvedor Full Stack com experiência em aplicações web e mobile, especializado em tecnologias modernas para front-end e back-end. Minha trajetória na programação teve início em 2021, com foco inicial em JavaScript, e desde então venho aprimorando minhas habilidades continuamente.
 
-💻 Em 2021 descobri meu amor pela programação, e passei a estudar JavaScript. 🚀
+📈 Atualmente, desenvolvo e mantenho um sistema web para emissão de nota fiscal, utilizando Angular no front-end e Node.js no back-end. 📄 Além disso, sou responsável por dois aplicativos multiplataforma (🌐 iOS e Android 📱), que atuam como extensões de um ERP legado, proporcionando integração e mobilidade aos usuários.
 
-🎓 Em Julho de 2023 ingressei no curso de Desenvolvedor Back-End da Cubos Academy, iniciando assim minha jornada pelo mundo da programação. 📚
-
-🎓 Atualmente estudando HTML, CSS, REACT no curso de Front-End da DevMedia. 📚
-
+💡 Estou constantemente buscando aperfeiçoar minhas práticas e conhecimentos, aplicando conceitos de arquitetura limpa, design patterns e boas práticas de desenvolvimento para garantir soluções eficientes e escaláveis. 🚀
 
