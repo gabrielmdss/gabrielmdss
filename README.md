@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-wine-nu-30.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://gabriel-mendes-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/gabrielmendesdeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
   <a href="mailto:gersongabriel_@hotmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"></a>
 </p>
@@ -55,7 +55,7 @@
 | **Entrega Certa** · [demo](https://pastoral-fronted-ashy.vercel.app) (`demo` / `senhaTeste`) · [web](https://github.com/gabrielmdss/pastoral_fronted) · [api](https://github.com/gabrielmdss/entrega_certa_backend_v3) | Social assistance management for a non-profit: waiting list, distributions, pickups, inventory and audit. Clean Architecture, JWT + RBAC (34 permissions), ~150 API tests. [v1](https://github.com/gabrielmdss/entregaCerta-backend) encrypted documents at rest. | Angular 21, Node.js, Express, PostgreSQL, Zod, Vitest |
 | **Madeira & Arte** · [site](https://servicos-pro.vercel.app) · [code](https://github.com/gabrielmdss/servicosPro) | Landing page for a custom woodworking shop: service catalog with prices, payment options and quote request form. | Angular (SSR), TypeScript |
 | **SOLID Streaming** · [code](https://github.com/gabrielmdss/solid-factory-streaming) | Multi-platform streaming API applying the Factory Method pattern and all five SOLID principles. | TypeScript, Node.js, Express, Swagger |
-| **Portfolio** · [site](https://portfolio-wine-nu-30.vercel.app) · [code](https://github.com/gabrielmdss/portfolio) | My portfolio: SSR, EN/PT language switch, dark mode and scroll animations. | Angular 19, TypeScript |
+| **Portfolio** · [site](https://gabriel-mendes-dev.vercel.app) · [code](https://github.com/gabrielmdss/portfolio) | My portfolio: SSR, EN/PT language switch, dark mode and scroll animations. | Angular 19, TypeScript |
 
 Most of my professional work (ERP mobile apps, legacy migrations, NF-e integrations) lives in private client repositories.
 
@@ -69,6 +69,6 @@ Desenvolvedor Full Stack na **SGN**, software house com **mais de 160 clientes**
 
 Valorizo código sustentável: Clean Code, SOLID, Clean Architecture e Design Patterns.
 
-📍 Salvador, Bahia · Aberto a vagas remotas e projetos freelance · [Portfólio](https://portfolio-wine-nu-30.vercel.app) · [LinkedIn](https://linkedin.com/in/gabrielmendesdeveloper)
+📍 Salvador, Bahia · Aberto a vagas remotas e projetos freelance · [Portfólio](https://gabriel-mendes-dev.vercel.app) · [LinkedIn](https://linkedin.com/in/gabrielmendesdeveloper)
 
 </details>
