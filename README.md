@@ -52,8 +52,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Entrega Certa** · [demo](https://entregacerta-frontend.onrender.com/estoque) · [frontend](https://github.com/gabrielmdss/pastoral_fronted) · [backend](https://github.com/gabrielmdss/entregaCerta-backend) | Donation & inventory management for a non-profit that distributes food baskets. Live in production. | Angular, Node.js, Express, Prisma, PostgreSQL |
-| **Madeira & Arte** · [site](https://servicos-pro.vercel.app) · [code](https://github.com/gabrielmdss/servicosPro) | Business website for a custom woodworking shop, with portfolio and quote requests. | Angular, TypeScript |
+| **Entrega Certa** · [demo](https://pastoral-fronted-ashy.vercel.app) (`demo` / `senhaTeste`) · [web](https://github.com/gabrielmdss/pastoral_fronted) · [api](https://github.com/gabrielmdss/entrega_certa_backend_v3) | Social assistance management for a non-profit: waiting list, distributions, pickups, inventory and audit. Clean Architecture, JWT + RBAC (34 permissions), ~150 API tests. [v1](https://github.com/gabrielmdss/entregaCerta-backend) encrypted documents at rest. | Angular 21, Node.js, Express, PostgreSQL, Zod, Vitest |
+| **Madeira & Arte** · [site](https://servicos-pro.vercel.app) · [code](https://github.com/gabrielmdss/servicosPro) | Landing page for a custom woodworking shop: service catalog with prices, payment options and quote request form. | Angular (SSR), TypeScript |
 | **SOLID Streaming** · [code](https://github.com/gabrielmdss/solid-factory-streaming) | Multi-platform streaming API applying the Factory Method pattern and all five SOLID principles. | TypeScript, Node.js, Express, Swagger |
 | **Portfolio** · [site](https://portfolio-wine-nu-30.vercel.app) · [code](https://github.com/gabrielmdss/portfolio) | My portfolio: SSR, EN/PT language switch, dark mode and scroll animations. | Angular 19, TypeScript |
 
